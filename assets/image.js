@@ -1,6 +1,6 @@
 //parameters in the url
 const accesskey = "qqyaC6YzwEy2wdv9cuBYxi0NFlor3Ytu0BMTZ2ytEqw";
-const page = "1";
+const page = "10";
 const keyword = "nature";
 //promise
 async function getimage(){
